@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modify in file 1 of master
+=======
+Modify the filde insdie folder1
+>>>>>>> first
+confilct resolved
